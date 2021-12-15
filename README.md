@@ -9,14 +9,13 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
+
 Moro em Brasília - DF, e atualmente estou como **Pessoa Estudante na Trybe**.
 Sou apaixonado por tecnologia, ciência e games. Sempre procuro apoiar iniciativas que criam, inovam e desenvolvem soluções criativas para problemas e situações na vida da população.
 
 Sou formado em Rede de Computadores, pela UCB, e no último ano venho capacitando em desenvolvimento de sistemas web e pretendo me tornar uma pessoa desenvolvedora **Full Stack**.
 
 Trabalho e acredito em ações que possam gerar impacto positivo e oportunidades na vida das pessoas.
-
-</br>
 
 ## Linguagens e ferramentas:
 
